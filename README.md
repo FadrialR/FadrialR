@@ -47,7 +47,7 @@ I am a software developer with a strong interest in mobile app development, part
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FadrialR&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="250" alt="languages graph"  />
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FadrialR&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FadrialR&theme=tokyonight&hide_border=false" height="120" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=FadrialR&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="120" alt="stats graph"  />
